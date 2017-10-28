@@ -4,7 +4,7 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-9-E   | Berkan Eti | 412
+9-E   | Berkan Eti | 564
 9-E   | Burak Taş | 638
 9-E   | Okan Gümüşsoy |574
 
