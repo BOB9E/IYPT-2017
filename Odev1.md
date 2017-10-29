@@ -10,7 +10,7 @@ Sınıf | Öğrenci İsmi  | Numara
 
 # Making a Splash
 ## Özet  
-  Bizim grupça karar verdiğimiz soru 2008 yılının 'Making a Splash' sorusudur. Bu soruda  bizim görevimiz 50 metreden suya attığımız bir katının sebep olduğu sıçramayı en az indirmenin faktörlerini bulmaktır.   
+  Bizim grupça karar verdiğimiz soru 2008 yılının 'Making a Splash' sorusudur. Bu soruda  bizim görevimiz 50 metreden suya attığımız bir katının sebep olduğu sıçramayı en az indirmenin faktörlerini bulmaktır. Bu problem sadece deney bağlı değişik faktörleri ekleyip çıkartmaya bağlı olarak çözülebilir.  
 
 ## Kaynakçalar  
 
