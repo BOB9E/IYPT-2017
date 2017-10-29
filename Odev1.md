@@ -17,4 +17,5 @@ Bu problem bize 50 cm yükseklikten suya bırakılan katı bir cismin suda yarat
  1. Hırvatistan IYPT 2008 sorusu çözümü  : http://eskola.hfd.hr/icm/download/IYPT2008/7.%20Making%20a%20splash.pdf
  2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
 http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.                                                                                                          
+Son erişim tarihi: 15 Aralık 2012.                                                                                                         
+S.M. Laverty, Jr. Experimental Hydrodynamics of Spherical Projectiles Impacting On aFree Surface Using High Speed Imaging Techniques. Master’s thesis at the MIT(August 2004). http://web.mit.edu/mhl/www/Impact%20Lab%20Page/Whole %20Thesis.pdf ∎
