@@ -19,3 +19,4 @@ Bu problem bize 50 cm yükseklikten suya bırakılan katı bir cismin suda yarat
 http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...Son erişim tarihi: 15 Aralık 2012                               
 3. C. Duez, C. Ybert, C. Clanet, L. Bocquet. Making a splash with water repellency.Nature, Vol. 3, p. 180-183. (March 2007). https://arxiv.org/pdf/cond-mat/0701093.pdf
 4. Wikipedia: Splash. http://en.wikipedia.org/wiki/Splash_%28fluid_mechanics%29
+5. B. Akers, A. Belmonte. Impact dynamics of a solid sphere falling into a viscoelasticmicellar fluid. J. Non-Newtonian Fluid Mech. 135, 97–108 (2006). http://www.math.psu.edu/belmonte/PaperFile/AkersImpact.pdf
