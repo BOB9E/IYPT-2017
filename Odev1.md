@@ -9,8 +9,8 @@ Sınıf | Öğrenci İsmi  | Numara
 9-E   | Okan Gümüşsoy |574
 
 # Making a Splash
-## Özet
-Bu problem bize 50 cm yükseklikten suya bırakılan katı bir cismin suda yarattığı sıçramayı nasıl en aza indirebileceğimizi soruyor.Bu problem deneye bağlı değişik faktörleri ekleyip,çıkartmaya bağlı olarak çözüebilir.
+## Özet  
+ Bizim grupça karar verdiğimiz soru 2008 yılının 'Making a Splash' sorusudur. Bu soruda  bizim görevimiz 50 metreden suya attığımız bir katının sebep olduğu sıçramayı en az indirmenin faktörlerini bulmaktır.   
 
 ## Kaynakçalar  
 
