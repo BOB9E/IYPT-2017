@@ -18,3 +18,4 @@ Bu problem bize 50 cm yükseklikten suya bırakılan katı bir cismin suda yarat
  2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
 http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...Son erişim tarihi: 15 Aralık 2012                               
 3. C. Duez, C. Ybert, C. Clanet, L. Bocquet. Making a splash with water repellency.Nature, Vol. 3, p. 180-183. (March 2007). https://arxiv.org/pdf/cond-mat/0701093.pdf
+4. Wikipedia: Splash. http://en.wikipedia.org/wiki/Splash_%28fluid_mechanics%29
